@@ -6,6 +6,10 @@ function destructivelyAppendKitten(name) {
   kittens.push(name);
 }
 
+function destructivelyPrependKitten
+  kittens.push(name);
+}
+
 
 
 
