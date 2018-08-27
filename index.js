@@ -7,10 +7,10 @@ function destructivelyAppendKitten(name) {
 }
 
 function destructivelyPrependKitten
-  kittens.push(name);
+  kittens.puame);
 }
 
-function 
+
 
 
 
