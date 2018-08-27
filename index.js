@@ -7,7 +7,7 @@ function destructivelyAppendKitten(name) {
 }
 
 function destructivelyPrependKitten
-  kittens.puame);
+  kittens.unshift(name);
 }
 
 
